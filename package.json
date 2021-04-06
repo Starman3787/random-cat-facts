@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "discord.js-light": "^3.5.8",
     "node-fetch": "^2.6.1"
   }
 }
